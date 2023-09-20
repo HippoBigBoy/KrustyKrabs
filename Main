@@ -3,6 +3,6 @@
 <body>
  <center><h1 style="color:maroon;">Math Games</h1></center>
 <body style="background-color:#808080">
-<a href="Resent_3.6_patch_1_1.8_US.html">
+<button onclick = "window.location.href='Resent_3.6_patch_1_1.8_US.html';"
 </body>
 </html>
